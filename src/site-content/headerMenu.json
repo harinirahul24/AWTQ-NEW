@@ -1,0 +1,171 @@
+{
+    "menus": [
+        {
+            "title": "Focus",
+            "to":"/category/focus/",
+            "hasSubMenu": "y",
+            "subMenu": [
+                {
+                    "title": "The pandemic of the separate self",
+                    "to":"/the-pandemic-of-the-separate-self/",
+                    "displayPicName": "pandemic-separate-self1.jpg"
+                },
+                {
+                    "title": "Stories of loss and resilience",
+                    "to":"/stories-of-loss-and-resilience/",
+                    "displayPicName": "stories-loss-resilience1.jpg"
+                },
+                {
+                    "title": "Encounters of the heart",
+                    "to":"/encounters-of-the-heart/",
+                    "displayPicName": "quote-focus-june2021.jpg"
+                },
+                {
+                    "title": "Living authentically",
+                    "to":"/living-authentically/",
+                    "displayPicName": "Living-Authentically1-1.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Interview",
+            "to":"/category/interview/",
+            "hasSubMenu": "y",
+            "subMenu": [
+                {
+                    "title": "How we know – part 2",
+                    "to":"/how-we-know-part-2/",
+                    "displayPicName": "how-we-know-part2-1.jpg"
+                },
+                {
+                    "title": "Being fully present",
+                    "to":"/being-fully-present/",
+                    "displayPicName": "quote-innerview-june2021.jpg"
+                },
+                {
+                    "title": "How we know – part 1",
+                    "to":"/how-we-know-part-1/",
+                    "displayPicName": "how-we-know1-1.jpg"
+                },
+                {
+                    "title": "That’s when I’m awake",
+                    "to":"/thats-when-im-awake/",
+                    "displayPicName": "Quote-innerview-June2021-awake.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Thought in action",
+            "to":"/category/thoughtinaction/",
+            "hasSubMenu": "y",
+            "subMenu": [
+                {
+                    "title": "The heartful innovator – part 7",
+                    "to":"/the-heartful-innovator-part-7/",
+                    "displayPicName": "THI-part7-1.jpg"
+                },
+                {
+                    "title": "How to manage feelings: form-function interdependence",
+                    "to":"/how-to-manage-feelings-form-function-interdependence/",
+                    "displayPicName": "Form-Function1.jpg"
+                },
+                {
+                    "title": "A smile",
+                    "to":"/a-smile/",
+                    "displayPicName": "quote-TIA-june2021.jpg"
+                },
+                {
+                    "title": "Your calendar – the mirror of your values",
+                    "to":"/your-calendar-the-mirror-of-your-values/",
+                    "displayPicName": "Calendar-mirror-values1-1.jpg"
+                }
+            ]
+        },
+        {
+            "title": "It changes everything",
+            "to":"/category/itchangeseverything/",
+            "hasSubMenu": "y",
+            "subMenu": [
+                {
+                    "title": "Neuro-development in children – part 2",
+                    "to":"/neuro-development-in-children-part-2/",
+                    "displayPicName": "neuro-development-part2-1.jpg"
+                },
+                {
+                    "title": "The magic of pausing",
+                    "to":"/the-magic-of-pausing/",
+                    "displayPicName": "Magic-of-Pausing1.jpg"
+                },
+                {
+                    "title": "The final stage of wisdom",
+                    "to":"/the-final-stage-of-wisdom/",
+                    "displayPicName": "quote-ICE-june2021.jpg"
+                },
+                {
+                    "title": "Neuro-development in children – part 1",
+                    "to":"/neuro-development-in-children-part-1/",
+                    "displayPicName": "neuro-developement1-1.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Be inspired",
+            "to":"/category/beinspired/",
+            "hasSubMenu": "y",
+            "subMenu": [
+                {
+                    "title": "The art of removing and creating habits – part 2",
+                    "to":"/the-art-of-removing-and-creating-habits-part-2/",
+                    "displayPicName": "purity1.jpg"
+                },
+                {
+                    "title": "Habits change into character",
+                    "to":"/habits-change-into-character/",
+                    "displayPicName": "quote-BI-july2021.jpg"
+                },
+                {
+                    "title": "The art of removing and creating habits – part 6",
+                    "to":"/the-art-of-removing-and-creating-habits-part-6/",
+                    "displayPicName": "art-of-removing-creating-habits6-1-1.jpg"
+                },
+                {
+                    "title": "Take heart",
+                    "to":"/take-heart/",
+                    "displayPicName": "take-heart1-1.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Taste of life",
+            "to":"/category/tasteoflife/",
+            "hasSubMenu": "y",
+            "subMenu": [
+                {
+                    "title": "Hope",
+                    "to":"/hope-2/",
+                    "displayPicName": "Hope-1anew.jpg"
+                },
+                {
+                    "title": "Stories and Objects",
+                    "to":"/stories-and-objects/",
+                    "displayPicName": "Stories-Objects1.jpg"
+                },
+                {
+                    "title": "Heartfulness sport – part 3",
+                    "to":"/heartfulness-sport-part-3/",
+                    "displayPicName": "heartfulnesds-sport-part3-1.jpg"
+                },
+                {
+                    "title": "Infinite hope",
+                    "to":"/infinite-hope/",
+                    "displayPicName": "quote-tol-july2021.jpg"
+                }
+            ]
+        },
+        {
+            "title": "Editions",
+            "to":"/editions/",
+            "hasSubMenu": "n"
+        }
+    ]
+}

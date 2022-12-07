@@ -1,0 +1,15 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      - echo Build started on `date` 
+      - npm install 
+  post_build: 
+    commands: 
+      - echo Build completed on `date` 
+      - npm run build
+artifacts: 
+  files:
+    - appspec.yml
+#     - target/Spring3HibernateApp.war
+  discard-paths: yes

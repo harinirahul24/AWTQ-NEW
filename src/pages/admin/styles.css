@@ -1,0 +1,39 @@
+
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.pagination a {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #b08439;
+  color: #b08439;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: roboto;
+  font-weight: normal;
+}
+
+input[type="text"], input[type="date"], textarea {
+  font-family: roboto;
+}
+
+.pagination__link {
+  font-weight: bold;
+}
+
+.pagination__link--active a {
+  color: #fff;
+  background: #b08439;
+}
+
+.pagination__link--disabled a {
+  color: rgb(198, 197, 202);
+  border: 1px solid rgb(198, 197, 202);
+}
+  

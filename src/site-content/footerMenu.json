@@ -1,0 +1,48 @@
+{
+    "footerMenu":[
+        {
+            "title":"FOCUS",
+            "to":"/category/focus/"
+        },
+        {
+            "title":"BE INSPIRED",
+            "to":"/category/beinspired/"
+        },
+        {
+            "title":"SUBSCRIBE",
+            "to":"/subscribe/"
+        },
+        {
+            "title":"INTERVIEW",
+            "to":"/category/interview/"
+        },
+        {
+            "title":"TASTE OF LIFE",
+            "to":"/category/tasteoflife/"
+        },
+        {
+            "title":"CONTRIBUTE",
+            "to":"/contribute/"
+        },
+        {
+            "title":"THOUGHT IN ACTION",
+            "to":"/category/thoughtinaction/"
+        },
+        {
+            "title":"INFOGRAPHICS",
+            "to":"/category/infographics/"
+        },
+        {
+            "title":"",
+            "to":""
+        },
+        {
+            "title":"IT CHANGES EVERYTHING",
+            "to":"/category/itchangeseverything/"
+        },
+        {
+            "title":"EDITIONS",
+            "to":"/editions/"
+        }
+    ]
+}

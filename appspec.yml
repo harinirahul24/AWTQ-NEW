@@ -1,0 +1,18 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /srcm/projects/newheartfulness/a-word-a-thought-a-question
+permissions:
+  - object: /srcm/projects/newheartfulness/a-word-a-thought-a-question
+    pattern: "**"
+    owner: nginx
+    group: wpdev
+    type:
+      - file
+  - object: /srcm/projects/newheartfulness/a-word-a-thought-a-question
+    pattern: "**"
+    owner: nginx
+    group: wpdev
+    type:
+      - directory

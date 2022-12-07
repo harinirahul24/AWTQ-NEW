@@ -1,0 +1,16 @@
+{
+    "list":[
+        {
+            "title":"I no longer want to receive the emails"
+        },
+        {
+            "title":"I never signed up for this mailing list"
+        },
+        {
+            "title":"The emails are inappropriate"
+        },
+        {
+            "title":"The emails are spam and should be reported"
+        }
+    ]
+}

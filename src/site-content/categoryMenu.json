@@ -1,0 +1,32 @@
+{
+    "categoryMenu":[
+        {
+            "title":"self",
+            "to":"/category/self"
+        },
+        {
+            "title":"relationships",
+            "to":"/category/relationships"
+        },
+        {
+            "title":"work",
+            "to":"/category/work"
+        },
+        {
+            "title":"insipration",
+            "to":"/category/insipration"
+        },
+        {
+            "title":"vitality",
+            "to":"/category/vitality"
+        },
+        {
+            "title":"nature",
+            "to":"/category/nature"
+        },
+        {
+            "title":"children",
+            "to":"/category/children"
+        }
+    ]
+}
